@@ -1,0 +1,3 @@
+https://liveprod.worldbank.org/en/indicator/sl-uem-elv-zs?education=Advanced
+https://liveprod.worldbank.org/en/indicator/sl-uem-zs?gender=male
+https://liveprod.worldbank.org/en/indicator/sl-emp-smgt-fe-zs
