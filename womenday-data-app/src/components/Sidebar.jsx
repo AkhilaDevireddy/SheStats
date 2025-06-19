@@ -3,7 +3,7 @@ import { useState } from 'react';
 
 const topicItems = {
   Education: ['Educational attainment by level of education', 'Literacy Rates', 'STEM Access'],
-  Health: ['Maternal Health', 'Nutrition', 'Access to Care'],
+  Health: ['Maternal Health & Gender-wise Survival Rate', 'Nutrition', 'Access to Care'],
   Empowerment: ['Labor Participation', 'Leadership', 'Legal Rights'],
 };
 

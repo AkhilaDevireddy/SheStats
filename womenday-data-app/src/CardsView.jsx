@@ -3,6 +3,9 @@ import FlourishEmbed from './components/FlourishEmbedFemaleEducation';
 const sampleCardsData = {
     'Educational attainment by level of education': [
       { id: 1, story: 'story/3175557'},
+    ],
+    'Maternal Health & Gender-wise Survival Rate': [
+      { id: 1, story: 'story/3178324'},
     ]}
 
 export default function CardsView({ indicator }) {
