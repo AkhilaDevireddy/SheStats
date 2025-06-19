@@ -1,0 +1,31 @@
+.tile-container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+  }
+  
+  .tile {
+    flex: 1 1 250px;
+    max-width: 300px;
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    text-align: left;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: pointer;
+  }
+  
+  .tile:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.12);
+  }
+  
+  .tile h2 {
+    margin: 0 0 1rem;
+    font-size: 1.5rem;
+    color: #0077b6;
+  }
+  
